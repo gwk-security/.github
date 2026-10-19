@@ -1,0 +1,19 @@
+name: Tarefa
+description: Uma parte de uma entrega. Responsável e prazo ficam no quadro; a entrega é o milestone.
+body:
+  - type: textarea
+    id: oque
+    attributes:
+      label: O que é e quando está pronto
+      placeholder: "O que precisa ser feito e como saber que terminou."
+    validations:
+      required: true
+  - type: textarea
+    id: preparo
+    attributes:
+      label: Preparo
+      description: Marque antes de começar.
+      value: |
+        - [ ] Li o contexto e a estratégia da entrega
+        - [ ] As dependências estão prontas (ou a tarefa está como Travado)
+        - [ ] Sei como mostrar que terminou
