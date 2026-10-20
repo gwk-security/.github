@@ -1,98 +1,80 @@
-# GWK
+<p align="center">
+  <a href="https://gwksecurity.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/gwk-logo-claro.png">
+      <img src="img/gwk-logo-escuro.png" alt="GWK Security" width="260">
+    </picture>
+  </a>
+</p>
 
-Research, security engineering, and adaptive cryptographic governance.
+<h3 align="center">A camada de inteligência do mundo pós-quântico.</h3>
 
-GWK is a technical organization focused on advanced security, operating across applied research, tooling development, and cryptographic risk consulting — with emphasis on post-quantum scenarios.
-
-The organization sits at the intersection of market and academia, aiming to transform research into viable technical and commercial assets.
-
----
-
-## Structure
-
-GWK is built around a founding technical core responsible for strategic direction and early-stage development, supported by operational roles in machine learning, experimental systems, and project execution.
-
----
-
-## Areas of Activity
-
-- Post-quantum security (PQC)  
-- Technology and security consulting  
-- Research and development (QKD / experimental systems)  
+<p align="center">
+  <a href="https://gwksecurity.com">gwksecurity.com</a> ·
+  <a href="https://gwksecurity.com/metodologia">Metodologia</a> ·
+  <a href="https://gwksecurity.com/insights">Insights</a> ·
+  <a href="mailto:contato@gwksecurity.com">contato@gwksecurity.com</a>
+</p>
 
 ---
 
-## Strategic Asset — IEQ
+A GWK Security mede quanto da informação cifrada de cada organização continua exposta ao computador
+quântico, e por quanto tempo isso importa. O instrumento central é o **IEQ, Índice de Exposição
+Quântica**: um modelo formal publicado, que transforma sinais públicos em um score de 0 a 100,
+explicável e reprodutível.
 
-The IEQ (Quantum Exposure Index) is a proprietary model designed to quantify cryptographic risk in post-quantum contexts.
+**Sem agente, sem credencial, sem acesso aos sistemas internos.** A coleta observa o que a
+organização já expõe na internet e organiza essas evidências em três dimensões: vulnerabilidade,
+exposição e horizonte do dado.
 
-The model integrates:
+## Produtos
 
-- Cryptographic surface mapping (TLS, certificates, libraries, APIs)  
-- Exposure and vulnerability analysis  
-- Machine learning-based validation  
+Uma mesma base científica e de dados, aplicada a decisões diferentes.
 
-Currently under validation, with large-scale evaluation across ~1,000 entities.
+| | Produto | O que entrega |
+|---|---|---|
+| 01 | **Relatório de Exposição** | Leitura executiva da exposição criptográfica quântica da organização, com evidências e prioridades. |
+| 02 | **Benchmark Setorial** | Onde a organização se posiciona frente a pares do mesmo setor. |
+| 03 | **PQC Readiness Track** | A migração pós-quântica em impacto medido: score hoje, score projetado e o ganho de cada marco. |
+| 04 | Alertas de Regressão | Em roadmap. |
+| 05 | Gestão de Terceiros | Em roadmap. |
 
-IEQ serves as the foundation for technical reporting and market entry, particularly in the financial sector.
+## Pesquisa
 
----
+A metodologia pode ser lida, testada e revisada.
 
-## Technical Pipeline
+- **A Formal Basis for Quantum Cryptographic Exposure Measurement under HNDL Threat.**
+  Rufino, Marcelino & Garcia (2026). [arXiv:2605.22569](https://arxiv.org/abs/2605.22569)
+- **Detectability Limits for Intra-Block Temporal Drift in Finite-Key Entanglement-Based QKD.**
+  Marcelino, Garcia & Rufino (2026). [arXiv:2605.24230](https://arxiv.org/abs/2605.24230)
+- **Quantum Exposure Index Technical Report 2026-S1: Sector-Level HNDL Exposure.**
+  Garcia, Marcelino & Rufino (2026). IEQ aplicado a 39.903 organizações em 17 setores.
+  [Zenodo, CC-BY](https://doi.org/10.5281/zenodo.20767648)
 
-GWK operates an integrated pipeline for cryptographic risk analysis:
+## Fundadores
 
-1. Cryptographic scanner  
-2. Risk modeling (IEQ)  
-3. ML-based validation  
-4. Automated report generation  
-
-This pipeline enables direct conversion of technical data into commercial outputs.
-
----
-
-## Strategic Direction
-
-Current strategy is centered on:
-
-- Market entry through quantum risk reports  
-- Initial focus on the financial sector  
-- Expansion toward infrastructure and continuous services  
-
-Technical positioning:
-
-> Adaptive cryptographic governance (QKD + PQC)
-
----
-
-## Research & Development
-
-### PIPE — QKD Observability and Control
-
-Design and development of an adaptive control system for QKD environments, focused on:
-
-- Maintaining positive key rates under non-stationary conditions  
-- Integration with post-quantum fallback mechanisms  
-- Dynamic parameter control  
-
-Currently under development and being prepared for research funding submission.
+| | |
+|---|---|
+| **Matheus Rufino**, Fundador & CEO | Doutor em Física. Direção científica e estratégica; autor principal do arcabouço formal do IEQ. |
+| **Rafael Duarte Marcelino**, Fundador & CTO | Eng. Mecânica, MBA Data Science. Arquitetura de dados, analytics e engenharia da plataforma IEQ. |
+| **Julio Smanioto Garcia**, Fundador & CSO | Mestre em Física. Frente científica de QKD, criptografia pós-quântica e pesquisa experimental. |
 
 ---
 
-## Direction
+<details>
+<summary><b>In English</b></summary>
 
-GWK operates under a hybrid model between research and market, addressing:
+**The intelligence layer for the post-quantum world.**
 
-- Validation vs speed of deployment  
-- Dependence on ML for production readiness  
-- Evolving organizational structure  
+GWK Security measures how much of each organization's encrypted information remains exposed to
+quantum computers, and for how long that matters. Its core instrument, the **IEQ (Quantum Exposure
+Index)**, is a published formal model that turns public signals into an explainable, reproducible
+0 to 100 score. No agent, no credentials, no access to internal systems.
 
----
+Products: Exposure Report, Sector Benchmark and PQC Readiness Track, with Regression Alerts and
+Third-Party Management on the roadmap. Methodology and data are public on
+[arXiv](https://arxiv.org/abs/2605.22569) and [Zenodo](https://doi.org/10.5281/zenodo.20767648).
 
-## Vision
+[gwksecurity.com/en](https://gwksecurity.com/en) · contato@gwksecurity.com
 
-To build infrastructure and intelligence for cryptographic security in a post-quantum world, connecting:
-
-- deep research  
-- operational tooling  
-- real-world commercial application  
+</details>
