@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://gwksecurity.com/en">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/gwk-logo-claro.png">
-      <img src="img/gwk-logo-escuro.png" alt="GWK Security" width="260">
-    </picture>
-  </a>
-</p>
-
-<h3 align="center">The intelligence layer for the post-quantum world.</h3>
+<a href="https://gwksecurity.com/en"><img src="img/gwk-capa.png" alt="GWK Security: the intelligence layer for the post-quantum world." width="100%"></a>
 
 <p align="center">
   <a href="https://gwksecurity.com/en">gwksecurity.com</a> ·
