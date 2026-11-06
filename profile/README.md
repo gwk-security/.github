@@ -1,4 +1,3 @@
-# Role: Public organization profile and issue templates. Org map: https://github.com/gwk-security/.github-private/blob/main/profile/README.md
 <a href="https://gwksecurity.com/en">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/gwk-faixa-escuro.png">
