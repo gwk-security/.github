@@ -1,13 +1,10 @@
-<<<<<<< Updated upstream
+# Role: Public organization profile and issue templates. Org map: https://github.com/gwk-security/.github-private/blob/main/profile/README.md
 <a href="https://gwksecurity.com/en">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/gwk-faixa-escuro.png">
     <img src="img/gwk-faixa-claro.png" alt="GWK Security: the intelligence layer for the post-quantum world." width="100%">
   </picture>
 </a>
-=======
-# Papel: perfil público e modelos de issue da org. Mapa da GWK: https://github.com/gwk-security/.github-private/blob/main/profile/README.md
->>>>>>> Stashed changes
 
 <p align="center">
   <a href="https://gwksecurity.com/en">gwksecurity.com</a> ·
