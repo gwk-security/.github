@@ -1,3 +1,5 @@
+**GWK Security organization profile and issue templates** · [Organization map](https://github.com/gwk-security/gwk/blob/main/MAP.md)
+
 <a href="https://gwksecurity.com/en">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/gwk-faixa-escuro.png">
